@@ -26,7 +26,6 @@ const changeBackgroundColor = {
       refs.stopBtn.disabled = true;
       refs.startBtn.disabled = false;
     }
-    // console.log('нажали на кнопку стоп');
   },
 };
 
